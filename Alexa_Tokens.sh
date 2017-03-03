@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#This script is designed to work 
-#alongside my other script which is 
+#This script is designed to be run 
+#from the other script in the Alexa_Autostart repo  (start_alexa) which is 
 #modified from the script written by 
 #Misperry https://youtu.be/iwlQnRHX9Ms 
 #all credit to him for the other 
@@ -10,9 +10,15 @@
 # This script automates the process of 
 #logging in etc prior to pressing 
 #'spacebar' in Misperry's script.
-#It also automated the spacebar making the whole thing automated.
+#It also automates the spacebar keying at the end making the whole startup automated.
 
-#THIS WILL NOT WORK ON A HEADLESS INSTALL - IT NEEDS A PHYSICAL MOUSE ATTACHED AND A MONITOR. I'M USING IT ON A SMART MIRROR WITH USB MOUSE HIDDEN BEHIND IT TO ALLOW THIS TO WORK - I KNOW OF NO OTHER WORK AROUND.
+#THIS WILL NOT WORK ON A HEADLESS 
+#INSTALL - IT NEEDS A PHYSICAL MOUSE 
+#ATTACHED AND A MONITOR. I'M USING IT 
+#ON A SMART MIRROR WITH USB MOUSE 
+#HIDDEN BEHIND IT TO ALLOW THIS TO WORK 
+
+#I KNOW OF NO OTHER WORK AROUND AT THE MOMENT.
 
 
 #Change coordinate numbers of each 
